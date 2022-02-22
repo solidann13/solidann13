@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @solidann13, bilingual English/Japanese web developer based in Tokyo.
+- 👀 I’m interested in web dev, cloud, python.
+- 🌱 I’m currently learning back-end JS, and python.
+- 💞️ I’m looking to collaborate on interesting projects where I can expand my skills!
+- 📫 You can reach me at solidann13@gmail.com
